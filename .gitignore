@@ -101,3 +101,16 @@ tests/triangle-vulkan
 tests/window
 tests/windows
 
+##GEL_Core
+#Directories
+bin/
+bin-int/
+
+#Files
+Makefile
+
+#VS files & folder
+*.sln
+*.vcxproj
+*.user
+
